@@ -1,0 +1,294 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1750239147135004, "dur":5580, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750239147140591, "dur":1688, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750239147142329, "dur":163, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750239147142701, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1750239147143388, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":0, "ts":1750239147143883, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147143975, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147144141, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147144320, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147144425, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147144519, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147144858, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147144955, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147145040, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147145167, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147145268, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147145395, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147145638, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147145919, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147146119, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147146346, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147146547, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147146648, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147146755, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147147000, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147147085, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147147304, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147147385, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147147466, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147147611, "dur":111, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147142524, "dur":5980, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750239147148506, "dur":404782, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750239147553288, "dur":96, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750239147553466, "dur":2493, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1750239147143164, "dur":5367, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147148534, "dur":243, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147148777, "dur":174, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147148951, "dur":160, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147149111, "dur":1065, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147150240, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147151684, "dur":1674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1750239147153361, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1750239147153665, "dur":24806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1750239147178538, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147178824, "dur":35626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1750239147214501, "dur":19439, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1750239147214500, "dur":19441, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1750239147233943, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147234295, "dur":21728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1750239147256137, "dur":13786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1750239147269977, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1750239147284402, "dur":193, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147270107, "dur":14542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1750239147284687, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147284747, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147285006, "dur":2919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147288026, "dur":2023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147290110, "dur":2406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147292642, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147292726, "dur":938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147293708, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147293876, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147294973, "dur":871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147295916, "dur":962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147296960, "dur":1185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147298212, "dur":1500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147299766, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147299934, "dur":2178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147302146, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147302239, "dur":1085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147303427, "dur":935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147304430, "dur":791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147305311, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147305381, "dur":836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147306233, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147306321, "dur":1018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147307432, "dur":953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147308475, "dur":1012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147309597, "dur":771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147310458, "dur":783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147311402, "dur":963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147312397, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147312471, "dur":698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147313184, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147313281, "dur":692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147314047, "dur":804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147314867, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147315864, "dur":261, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147314964, "dur":1188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147316174, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147316305, "dur":846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147317180, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147317262, "dur":1582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147318878, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147318942, "dur":830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147319884, "dur":931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147320958, "dur":1350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147322385, "dur":776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147323199, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147323274, "dur":740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147324043, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147324116, "dur":764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147324956, "dur":714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147325771, "dur":756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147326617, "dur":3066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147329745, "dur":662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147330438, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147331362, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147330515, "dur":944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147331482, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147331644, "dur":795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147332457, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147332534, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147333576, "dur":803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147334471, "dur":685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147335172, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147335277, "dur":647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147336018, "dur":1509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147337601, "dur":868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147338565, "dur":877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147339476, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147339546, "dur":1106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147340670, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147340876, "dur":851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750239147341796, "dur":848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets4.resource" }}
+,{ "pid":12345, "tid":1, "ts":1750239147342728, "dur":911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":1, "ts":1750239147343664, "dur":917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":1, "ts":1750239147344648, "dur":5035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1750239147349732, "dur":1377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1750239147351196, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750239147351274, "dur":954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1750239147352252, "dur":1600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1750239147353879, "dur":8462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1750239147362395, "dur":978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level5.resS" }}
+,{ "pid":12345, "tid":1, "ts":1750239147363411, "dur":644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level5" }}
+,{ "pid":12345, "tid":1, "ts":1750239147364099, "dur":890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level4.resS" }}
+,{ "pid":12345, "tid":1, "ts":1750239147365014, "dur":1104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level4" }}
+,{ "pid":12345, "tid":1, "ts":1750239147366147, "dur":947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level3.resS" }}
+,{ "pid":12345, "tid":1, "ts":1750239147367129, "dur":878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level3" }}
+,{ "pid":12345, "tid":1, "ts":1750239147368054, "dur":799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level2.resS" }}
+,{ "pid":12345, "tid":1, "ts":1750239147368901, "dur":894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level2" }}
+,{ "pid":12345, "tid":1, "ts":1750239147369829, "dur":635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level1.resS" }}
+,{ "pid":12345, "tid":1, "ts":1750239147370498, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1750239147371523, "dur":1282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level0.resS" }}
+,{ "pid":12345, "tid":1, "ts":1750239147372845, "dur":737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1750239147373619, "dur":1912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1750239147375585, "dur":870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1750239147376478, "dur":890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1750239147377395, "dur":175891, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147143156, "dur":5356, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147148514, "dur":1642, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147150854, "dur":300, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1750239147151161, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1750239147151527, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Application\\GitHub rep\\UnityGame\\Cube Quest\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147151612, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Application\\GitHub rep\\UnityGame\\Cube Quest\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147151699, "dur":134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Application\\GitHub rep\\UnityGame\\Cube Quest\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147151834, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Application\\GitHub rep\\UnityGame\\Cube Quest\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147152016, "dur":459, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Application\\GitHub rep\\UnityGame\\Cube Quest\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147152525, "dur":227, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Application\\GitHub rep\\UnityGame\\Cube Quest\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147151159, "dur":1705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1750239147153153, "dur":55, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147153485, "dur":103388, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1750239147258129, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1750239147258128, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1750239147258319, "dur":869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1750239147259230, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147259474, "dur":17960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1750239147277803, "dur":16727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147294606, "dur":1038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147295716, "dur":1259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147297044, "dur":915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147298044, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147299033, "dur":1134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147300189, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147300295, "dur":674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147301096, "dur":1761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147302931, "dur":1000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147304029, "dur":770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147304869, "dur":1107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147306066, "dur":1143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147307231, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147307307, "dur":801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147308135, "dur":756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147308947, "dur":747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147309778, "dur":674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147310535, "dur":753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147311350, "dur":579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147312005, "dur":720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147312795, "dur":601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147313413, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147313552, "dur":620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147314202, "dur":204, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147314420, "dur":663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147315097, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147315869, "dur":190, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147315221, "dur":856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147316198, "dur":760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147317029, "dur":811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147317941, "dur":941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147318968, "dur":874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147319942, "dur":816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147320820, "dur":1079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147321963, "dur":624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147322617, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147322689, "dur":596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147323319, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147323436, "dur":749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147324202, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147324268, "dur":752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147325089, "dur":769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147325876, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147326003, "dur":727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147326745, "dur":2178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147328936, "dur":806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147329814, "dur":725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147330623, "dur":818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147331514, "dur":732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147332329, "dur":778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147333179, "dur":615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147333825, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147333902, "dur":630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147334562, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147334627, "dur":759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147335414, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147335526, "dur":607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147336148, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750239147336298, "dur":687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147337053, "dur":600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147337716, "dur":757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147338544, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147339495, "dur":1010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147340590, "dur":693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750239147341308, "dur":576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":2, "ts":1750239147341946, "dur":808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1750239147342777, "dur":913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1750239147343724, "dur":1480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1750239147345237, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1750239147346080, "dur":4431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1750239147350599, "dur":780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1750239147351551, "dur":28768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1750239147380340, "dur":172878, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750239147143297, "dur":5241, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750239147148541, "dur":263, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750239147148805, "dur":179, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750239147149020, "dur":1157, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750239147150195, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1750239147150183, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1750239147150886, "dur":20142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1750239147171092, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750239147171260, "dur":29545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1750239147200829, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1750239147200827, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1750239147200993, "dur":11764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1750239147212821, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750239147213177, "dur":1314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1750239147214509, "dur":19431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1750239147233943, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750239147234352, "dur":29195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1750239147263579, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1750239147263907, "dur":6129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1750239147270336, "dur":7145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1750239147277499, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750239147277880, "dur":136081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750239147413987, "dur":139136, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750239147143280, "dur":5316, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750239147148597, "dur":206, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750239147148804, "dur":174, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750239147148978, "dur":229, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750239147149208, "dur":974, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750239147150197, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1750239147150182, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1750239147152186, "dur":37501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1750239147189774, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750239147189996, "dur":14915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1750239147204929, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1750239147205035, "dur":15656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1750239147220714, "dur":22769, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1750239147220713, "dur":22773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1750239147243487, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750239147243722, "dur":12304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1750239147256310, "dur":7347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1750239147263724, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750239147263909, "dur":15831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1750239147279756, "dur":336, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":4, "ts":1750239147279755, "dur":338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest.exe" }}
+,{ "pid":12345, "tid":4, "ts":1750239147280104, "dur":1106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest.exe" }}
+,{ "pid":12345, "tid":4, "ts":1750239147281256, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1750239147281312, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750239147281774, "dur":57643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1750239147339481, "dur":1333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/Cube Quest_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750239147340922, "dur":212157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Game PC/Desktop/Game/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750239147557657, "dur":991, "ph":"X", "name": "ProfilerWriteOutput" }
+,
